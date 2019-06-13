@@ -1,0 +1,1 @@
+Amazon Fine Food Reviews is a classic sentiment analysis problem used to classify the polarity of the reviews. In this problem we have given reviews of products and task is to reduce dimensonality to visualize the data.t-SNE(t-Distributed Stochastic Neighbor Embedding) is better approach to perform our task.
